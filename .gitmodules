@@ -1,0 +1,3 @@
+[submodule "Open-Sora"]
+	path = opensora_base
+	url = https://github.com/hpcaitech/Open-Sora.git
