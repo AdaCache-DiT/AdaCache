@@ -42,7 +42,7 @@ If you find this useful, please consider citing our work:
 @article{adacache,
     title={Adaptive Caching for Faster Video Generation with Diffusion Transformers},
     author={Kumara Kahatapitiya, Haozhe Liu, Sen He, Ding Liu, Menglin Jia, Chenyang Zhang, Michael S. Ryoo, and Tian Xie},
-    journal={arXiv preprint},
+    journal={arXiv preprint arXiv:2411.02397},
     year={2024}
 }
 ```
